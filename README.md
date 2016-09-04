@@ -1,2 +1,3 @@
 # hello-world
-It is what it is 
+
+There are four main things about my life that are blah blah blah.
